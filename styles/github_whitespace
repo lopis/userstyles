@@ -1,0 +1,12 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+/* Make better user of github whitespace */
+
+@-moz-document domain("github.com") {
+  .container {
+    width: 95%;
+  }
+
+  .discussion-timeline {
+      width: calc(90% - 200px);
+  }
+}
