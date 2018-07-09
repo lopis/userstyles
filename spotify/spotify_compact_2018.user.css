@@ -1,4 +1,8 @@
-@-moz-document domain("open.spotify.com") {
+@name		Spotify Compact 2018
+@version    	0.7
+@description 	Very compact Spotify Web Player for small browser windows or widgets. The menu is hidden away and appears on mouse hover.
+@-moz-document 	domain("open.spotify.com") {
+	
 @keyframes backAndForth {
   0% { transform: translateX(0); }
   10% { transform: translateX(0); }
