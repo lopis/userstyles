@@ -1,6 +1,10 @@
-@name		Spotify Compact 2018
-@version    	0.7
+/* ==UserStyle==
+@namespace   	github.com/lopis/userstyles
+@version     	0.7
 @description 	Very compact Spotify Web Player for small browser windows or widgets. The menu is hidden away and appears on mouse hover.
+@author      	github.com/lopis
+==/UserStyle== */
+	
 @-moz-document 	domain("open.spotify.com") {
 	
 @keyframes backAndForth {
